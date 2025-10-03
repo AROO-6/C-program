@@ -1,0 +1,4 @@
+C:\Users\Student\OneDrive\Documents\c#  arpitha\pro2\obj\Debug\net8.0\pro2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\OneDrive\Documents\c#  arpitha\pro2\obj\Debug\net8.0\pro2.AssemblyInfoInputs.cache
+C:\Users\Student\OneDrive\Documents\c#  arpitha\pro2\obj\Debug\net8.0\pro2.AssemblyInfo.cs
+C:\Users\Student\OneDrive\Documents\c#  arpitha\pro2\obj\Debug\net8.0\pro2.csproj.CoreCompileInputs.cache
