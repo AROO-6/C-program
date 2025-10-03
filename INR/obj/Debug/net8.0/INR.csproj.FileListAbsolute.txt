@@ -1,0 +1,14 @@
+C:\Users\Student\OneDrive\Documents\c#  arpitha\INR\bin\Debug\net8.0\INR.exe
+C:\Users\Student\OneDrive\Documents\c#  arpitha\INR\bin\Debug\net8.0\INR.deps.json
+C:\Users\Student\OneDrive\Documents\c#  arpitha\INR\bin\Debug\net8.0\INR.runtimeconfig.json
+C:\Users\Student\OneDrive\Documents\c#  arpitha\INR\bin\Debug\net8.0\INR.dll
+C:\Users\Student\OneDrive\Documents\c#  arpitha\INR\bin\Debug\net8.0\INR.pdb
+C:\Users\Student\OneDrive\Documents\c#  arpitha\INR\obj\Debug\net8.0\INR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\OneDrive\Documents\c#  arpitha\INR\obj\Debug\net8.0\INR.AssemblyInfoInputs.cache
+C:\Users\Student\OneDrive\Documents\c#  arpitha\INR\obj\Debug\net8.0\INR.AssemblyInfo.cs
+C:\Users\Student\OneDrive\Documents\c#  arpitha\INR\obj\Debug\net8.0\INR.csproj.CoreCompileInputs.cache
+C:\Users\Student\OneDrive\Documents\c#  arpitha\INR\obj\Debug\net8.0\INR.dll
+C:\Users\Student\OneDrive\Documents\c#  arpitha\INR\obj\Debug\net8.0\refint\INR.dll
+C:\Users\Student\OneDrive\Documents\c#  arpitha\INR\obj\Debug\net8.0\INR.pdb
+C:\Users\Student\OneDrive\Documents\c#  arpitha\INR\obj\Debug\net8.0\INR.genruntimeconfig.cache
+C:\Users\Student\OneDrive\Documents\c#  arpitha\INR\obj\Debug\net8.0\ref\INR.dll
