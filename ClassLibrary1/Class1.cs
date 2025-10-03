@@ -1,10 +1,12 @@
-﻿namespace ClassLibrary1
+﻿using System;
+namespace ClassLibrary1
 {
     public class point
     {
-       internal void Display()
+        public void Display()
         {
-            Console.WriteLine("frgr");
+            Console.WriteLine("Hello from ClassLibrary1.Class1");
         }
+
     }
 }
