@@ -1,6 +1,14 @@
 ﻿using System;
-Stack<string> s = new Stack<string>();
-s.Push("apple");
-s.Push("banana");
-s.Push("mango");
-Console.WriteLine(s.Pop());
+delegate void remote();
+class program
+{
+    static void tv ()
+    {
+        Console.WriteLine("say hello");
+    }
+    static void Main()
+    {
+        remote R = tv;
+        R();
+    }
+}
